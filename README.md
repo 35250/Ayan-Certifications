@@ -8,7 +8,7 @@ This repository contains verified certificates from the internships and courses 
 ## 🎓 Certificates Included
 
 1. Generative AI Developer Internship issued by AI Wallah on July,2025. Credential ID: B226Y/A                  
-Link: [View](./Genrative-AI-Developer-Internship-Certificate.pdf)
+Link: [View](https://drive.google.com/file/d/1sZ5VhMFnV8UCUOmezct3M3tPWte3mDXP/view?usp=drivesdk)
 
 > 📌 More certificates will be added as I continue learning and growing!
 
@@ -28,13 +28,15 @@ I'm **Ayan Dey**, a 2nd-year B.Tech CSE (AIML) student passionate about software
 
 - 💼 Actively looking for **paid internships**
 - 🧠 Constantly learning and building
-- 🔗 [GitHub Profile](https://github.com/yourusername)
-- 📫 [LinkedIn](https://linkedin.com/in/yourusername)
+- 🔗 [GitHub Profile](https://github.com/35250)
+- 📫 [LinkedIn](www.linkedin.com/in/
+ayandey212105242)
 
 ---
 
 ## 📬 Contact
 
-If you'd like to verify a certificate or collaborate on a project, feel free to reach out via [LinkedIn](https://linkedin.com/in/yourusername) or through my GitHub.
+If you'd like to verify a certificate or collaborate on a project, feel free to reach out via [LinkedIn ](www.linkedin.com/in/
+ayandey212105242) or through my [GitHub Profile].(https://github.com/35250) 
 
 ---
