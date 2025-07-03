@@ -8,7 +8,7 @@ This repository contains verified certificates from the internships and courses 
 ## 🎓 Certificates Included
 
 1. Generative AI Developer Internship issued by AI Wallah on July,2025. Credential ID: B226Y/A                  
-Link: [View](./web-dev-internship-aiwallah.pdf)
+Link: [View](./Genrative-AI-Developer-Internship-Certificate.pdf)
 
 > 📌 More certificates will be added as I continue learning and growing!
 
