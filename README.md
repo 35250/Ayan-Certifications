@@ -29,7 +29,7 @@ I'm **Ayan Dey**, a 2nd-year B.Tech CSE (AIML) student passionate about software
 - 💼 Actively looking for **paid internships**
 - 🧠 Constantly learning and building
 - 🔗 [GitHub Profile](https://github.com/35250)
-- 📫 [LinkedIn](www.linkedin.com/in/ayandey212105242)
+- 📫 [LinkedIn](www.linkedin.com/in/ayandey212105242) 
 
 ---
 
